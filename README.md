@@ -33,4 +33,4 @@ Classification modeling to identify key financial and demographic drivers.
 
 ### 🔹 Let’s Connect
 📫 LinkedIn: www.linkedin.com/in/samuelsubhakarp
-📄 Resume: Add link when ready
+📄 Resume: https://github.com/SamuelSP-7070/SamuelSP-7070/blob/main/Pulapakuri%2C%20Samuel.pdf
