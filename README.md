@@ -20,7 +20,7 @@ Full discounted cash flow valuation including revenue forecasting, WACC estimati
 📊 **Data-Driven Budget Optimization – Georgia Peach Truck**  
 Analyzed marketing performance using Marketing Mix Modeling (Google Meridian) to evaluate channel effectiveness, baseline contribution, and budget allocation in a highly seasonal business context.
 
-🧾 **Bankruptcy Prediction / Homeownership Determinants**  
+🧾 **Determinnants of Homeownership**  
 Classification modeling to identify key financial and demographic drivers.
 
 ---
