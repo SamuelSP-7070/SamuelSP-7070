@@ -1,7 +1,7 @@
 ## Hi, I'm Sam 👋
 
 🎓 Master of Science in Business Analytics (Mercer University)  
-📊 Data & Business Analyst | Predictive Modeling | Financial Analytics  
+📊 Data & Business Analyst | Predictive Modeling |Marketing, Management & Financial Analytics  
 📍 Atlanta, GA  
 
 I’m a Business Analytics graduate with hands-on experience building end-to-end analytics solutions — from data cleaning and exploratory analysis to predictive modeling and business recommendations. I enjoy working on problems where data can drive smarter decisions and measurable impact.
