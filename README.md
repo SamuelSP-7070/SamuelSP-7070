@@ -26,7 +26,7 @@ Classification modeling to identify key financial and demographic drivers.
 ---
 
 ### 🔹 Technical Skills
-**Languages & Tools:** R, Python, SQL, Excel, Tableau, Power BI  
+**Languages & Tools:** R, Python, SQL, Excel, Tablea  
 **Analytics:** Regression, Classification, Machine Learning, Forecasting, Data Visualization  
 
 ---
